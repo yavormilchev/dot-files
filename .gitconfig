@@ -1,0 +1,11 @@
+[user]
+        name = [...]
+        email = [...]
+[color]
+  ui = true
+[help]
+  autocorrect = 1
+[push]
+  default = simple
+[credential]
+        helper = osxkeychain
