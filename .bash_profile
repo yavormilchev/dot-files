@@ -7,3 +7,6 @@ export PATH="$HOME/.composer/vendor/bin:$PATH"
 if [ -f ~/.bashrc ]; then
    source ~/.bashrc
 fi
+
+alias gitranks='git shortlog -s -n'
+alias undocommit='git reset HEAD~'
